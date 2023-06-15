@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devdiogo5
-- 👾 I’m currently learning Python
+- 👾 I’m currently learning JavaScript
 - 📫 devdiogo5@gmail.com
 
 <!---
